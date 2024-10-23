@@ -31,17 +31,6 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
-<h2 align="left">Web3</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"/>
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40">
-  <img width="2">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="40" />
-  <img width="2">
-  <img src="https://raw.githubusercontent.com/foundry-rs/book/master/theme/card.png" height="40">
-</div>
 
 <h2 align="left">Frontend</h2>
 
@@ -93,6 +82,16 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+</div>
+<h2 align="left">Web3</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"/>
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40">
+  <img width="2">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="40" />
+  
 </div>
 <br>
 
