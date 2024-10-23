@@ -105,7 +105,7 @@
 <details>
   <summary>see git status</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=abdxzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammedFazilPc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammedFazilPc&limit=5&theme=dark&combine_all_yearly_contributions=true)
